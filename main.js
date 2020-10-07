@@ -1,6 +1,3 @@
-console.log('ok')
-
-
 $(document).ready( function() {
     $('.submit').click(function (event) {
         console.log('Clicado')
